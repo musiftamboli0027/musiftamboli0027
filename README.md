@@ -1,12 +1,43 @@
-- 👋 Hi, I’m @musiftamboli0027
-- 👀 I’m interested in learning more skills
-- 🌱 I’m currently learning machine Learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there 👋, I'm Musif Tamboli
 
-<!---
-musiftamboli0027/musiftamboli0027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Full Stack Developer | WordPress & PHP Enthusiast | Open Source Contributor**
+
+I build clean, scalable, and secure web applications using **JavaScript, PHP, MySQL, and WordPress**.  
+Actively contributing to open-source projects and constantly learning new technologies.
+
+---
+
+## 🔧 Tech Stack
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+
+---
+
+## 📌 Pinned Projects
+1. [Custom WordPress Theme](#) – A fully responsive WP theme built from scratch.
+2. [WP Plugin - Post Expiry](#) – Adds automatic post expiry feature.
+3. [PHP REST API](#) – CRUD API connected to MySQL.
+4. [JavaScript To-Do App](#) – Simple and clean UI for task management.
+5. [Image Gallery](#) – Responsive gallery using HTML, CSS, and JS.
+
+---
+
+## 🌱 Currently Learning
+- WordPress Plugin & Theme Development  
+- Advanced PHP (OOP, Laravel)  
+- REST API with PHP & Node.js  
+
+---
+
+## 📫 How to reach me
+📧 **musiftamboli6818@gmail.com**  
+🔗 [LinkedIn](https://linkedin.com/in/musif-tamboli)  
+💻 [Portfolio Website](#)
+
+---
+
+> 💡 *“Code is like humor. When you have to explain it, it’s bad.”*
