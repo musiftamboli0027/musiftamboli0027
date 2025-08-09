@@ -42,4 +42,3 @@ Actively contributing to open-source projects and constantly learning new techno
 
 ---
 
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.”*
