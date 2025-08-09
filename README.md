@@ -38,8 +38,7 @@ Actively contributing to open-source projects and constantly learning new techno
 
 ## 📫 How to reach me
 📧 **musiftamboli6818@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/musif-tamboli)  
-💻 [Portfolio Website](#)
+🔗 [LinkedIn]www.linkedin.com/in/musiftamboli
 
 ---
 
