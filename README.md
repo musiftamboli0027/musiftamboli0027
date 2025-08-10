@@ -40,12 +40,14 @@ Git • GitHub • Postman • VS Code • Render • Netlify • Vercel
 
 ---
 
-## 📈 Contribution Activity Graph
-
-[![Musif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=musif-tamboli&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
----
-
+## 📈 Contribution Activity Graph----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musiftamboli0027/musiftamboli0027/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/musiftamboli0027/musiftamboli0027/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/musiftamboli0027/musiftamboli0027/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 ## 🐍 Watch My Contributions Snake
 
 ![snake gif](https://github.com/musif-tamboli/musif-tamboli/blob/output/github-contribution-grid-snake.svg)
