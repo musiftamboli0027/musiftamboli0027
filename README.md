@@ -1,44 +1,64 @@
-# Hi there 👋, I'm Musif Tamboli
+# 👋 Hi, I'm Musif Tamboli  
 
-🚀 **Full Stack Developer | WordPress & PHP Enthusiast | Open Source Contributor**
+💻 **MERN Stack Developer | Problem Solver | Tech Enthusiast**  
 
-I build clean, scalable, and secure web applications using **JavaScript, PHP, MySQL, and WordPress**.  
-Actively contributing to open-source projects and constantly learning new technologies.
-
----
-
-## 🔧 Tech Stack
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+I specialize in building **full-stack web applications** using **MongoDB, Express.js, React, and Node.js**.  
+I love turning ideas into reality through clean code, scalable architecture, and modern UI/UX.  
 
 ---
 
-## 📌 Pinned Projects
-1. [Custom WordPress Theme](#) – A fully responsive WP theme built from scratch.
-2. [WP Plugin - Post Expiry](#) – Adds automatic post expiry feature.
-3. [PHP REST API](#) – CRUD API connected to MySQL.
-4. [JavaScript To-Do App](#) – Simple and clean UI for task management.
-5. [Image Gallery](#) – Responsive gallery using HTML, CSS, and JS.
+## 🚀 Tech Stack
+
+**Frontend:**  
+React.js • Redux • HTML5 • CSS3 • JavaScript (ES6+) • Tailwind CSS • Bootstrap  
+
+**Backend:**  
+Node.js • Express.js • REST APIs • JWT Authentication  
+
+**Database:**  
+MongoDB • Mongoose  
+
+**Other Tools:**  
+Git • GitHub • Postman • VS Code • Render • Netlify • Vercel  
 
 ---
 
-## 🌱 Currently Learning
-- WordPress Plugin & Theme Development  
-- Advanced PHP (OOP, Laravel)  
-- REST API with PHP & Node.js  
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🍔 Food Delivery Website](#) | Swiggy-like full-stack platform with order tracking, admin panel, and MySQL DB integration | MERN, MySQL, Tailwind |
+| [👔 Resume Classifier](#) | NLP-powered system that classifies resumes into categories using ML | Python, Scikit-learn, Flask |
+| [🏥 Hospital Visit Prediction](#) | Machine learning pipeline to predict emergency hospital visits | R, Statistics, ML |
 
 ---
 
-## 📫 How to reach me
-📧 **musiftamboli6818@gmail.com**  
-🔗 [LinkedIn]www.linkedin.com/in/musiftamboli
+## 📊 GitHub Stats & Activity
+
+![Musif's GitHub stats](https://github-readme-stats.vercel.app/api?username=musif-tamboli&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musif-tamboli&layout=compact&theme=tokyonight)  
 
 ---
 
+## 📈 Contribution Activity Graph
+
+[![Musif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=musif-tamboli&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
+---
+
+## 🐍 Watch My Contributions Snake
+
+![snake gif](https://github.com/musif-tamboli/musif-tamboli/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌱 Currently Learning  
+- **Next.js** for server-side rendering & SEO  
+- **Cloud Deployment** with AWS & Docker  
+
+---
+
+## 📫 Connect with Me  
+[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/musif-tamboli)  
+------- **Fun Fact:** I can debug faster with coffee ☕ and music 🎵
