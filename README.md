@@ -53,8 +53,8 @@ efficient code.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musif-tamboli&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musif-tamboli&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=musiftamboli0027&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=musiftamboli0027&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
@@ -66,5 +66,3 @@ efficient code.
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
 
 ---
-
-⭐ *"Code is like humor. When you have to explain it, it’s bad."*  
