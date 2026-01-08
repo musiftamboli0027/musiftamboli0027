@@ -84,8 +84,8 @@
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn profile link)*
-- 📧 Email: *(Add your professional email)*
+- 💼 LinkedIn: www.linkedin.com/in/musiftamboli
+- 📧 Email: musiftamboli6818@gmail.com
 
 ---
 
