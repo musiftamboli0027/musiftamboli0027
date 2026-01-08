@@ -118,7 +118,7 @@ Bharat High School, Jeur (C.R) — *First Class*
 ## 🤝 Let’s Connect
 
 📧 **Email:** musiftamboli6818@gmail.com  
-🌐 **Portfolio:** [*(Add link if live)* ](https://musiftamboli0027.github.io/myportfolio.github.io-/) 
+🌐 **Portfolio:https://musiftamboli0027.github.io/myportfolio.github.io-/
 
 ---
 
