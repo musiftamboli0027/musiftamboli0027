@@ -70,15 +70,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musiftamboli0027&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musiftamboli0027&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=musiftamboli0027&show_icons=true&theme=default&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musiftamboli0027&layout=compact&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musiftamboli0027" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musiftamboli0027&layout=compact" />
+</p>
+
 
 ## 🤝 Connect With Me
 
